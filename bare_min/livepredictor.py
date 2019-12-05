@@ -5,9 +5,7 @@ import six.moves.urllib as urllib
 import sys
 import logging
 import tensorflow as tf
-from distutils.version import StrictVersion
-from collections import defaultdict
-from io import StringIO
+
 import cv2
 import traceback
 sys.path.append("../")

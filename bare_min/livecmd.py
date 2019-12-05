@@ -1,19 +1,10 @@
 from __future__ import print_function
 import numpy as np
 import os
-import six.moves.urllib as urllib
-import sys
-import tarfile
+
 import logging
 #hello
-import zipfile
-import tkinter
-from distutils.version import StrictVersion
-from collections import defaultdict
-from io import StringIO
-from matplotlib import pyplot as plt
-import matplotlib
-from PIL import Image
+
 import cv2
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
