@@ -56,6 +56,17 @@ y = 22
 w = 468
 h = 300
 '''
+
+full_total = 0
 print("starting")
-total, framecount , vidnameused = cumulative_object_counting_x_axis(input_video, detection_graph, category_index,is_color_recognition_enabled,x,y,w,h,label ,write=False, display=True, brighten = False)
-exit(0)
+total,status, framecount , vidnameused = cumulative_object_counting_x_axis(input_video, detection_graph, category_index,is_color_recognition_enabled,x,y,w,h,label ,write=False, display=False, brighten = False)
+full_total += total
+while status != True:
+    print("Bad status recieved") 
+    total,status, framecount , vidnameused = cumulative_object_counting_x_axis(input_video, detection_graph, category_index,is_color_recognition_enabled,x,y,w,h,label ,write=False, display=False, brighten = False)
+    full_total += total
+
+print("Full total" + str(full_total))
+
+with open("run.txt", "a") as file:
+    file.write("\n" + str(full_total) + "\n")

@@ -9,6 +9,7 @@ from distutils.version import StrictVersion
 from collections import defaultdict
 from io import StringIO
 import cv2
+import traceback
 sys.path.append("../")
 # Object detection imports
 from utils import label_map_util
@@ -71,14 +72,17 @@ def run_inference_for_single_image(image,sess):
 
 
     return output_dict
-
+from alg import nps
 
 def cumulative_object_counting_x_axis(input_video, detection_graph, category_index, is_color_recognition_enabled,x,y,w,h,label_to_look_for,
-                                       write=True, display = False, location_of_text=(40, 100), pixel_v = 12, brighten = False):
+                                       write=True, display = False, location_of_text=(40, 100), pixel_v = 16, brighten = False):
 
     print("Starting")
     print(label_to_look_for)
 
+    status = True
+    last_frame_status = True
+    false_in_a_row_count = 0
     # Get handles to input and output tensors
     ops = tf.get_default_graph().get_operations()
     all_tensor_names = {output.name for op in ops for output in op.outputs}
@@ -112,6 +116,7 @@ def cumulative_object_counting_x_axis(input_video, detection_graph, category_ind
             #
             while (True):
                 try:
+                    status = True
                 
 
                     # Get handles to input and output tensors
@@ -123,14 +128,57 @@ def cumulative_object_counting_x_axis(input_video, detection_graph, category_ind
 
                         tensor_dict[key] = tf.get_default_graph().get_tensor_by_name(tensor_name)
                     ret, frame = cap.read()
-
+                    
                     if not ret:
-                        pass
+                        print("vid no recieved")
+                        last_frame_status = False
+                        false_in_a_row_count += 1
+                        status = False
+
+                        if false_in_a_row_count >= 1:
+                            print("\n\nNEED TO QUIT\n\n")
+                            return total_passed_vehicle, status, frame_count , input_video
+                    
                         #print("end of the video file...")
                         #break
-
+                    else:
+                        
+                        print("image is solid")
+                        
+                        last_frame_status = True
+                        false_in_a_row_count = 0
+                    
                     print("READ A FRAME")
                     input_frame = frame
+                    #input_frame = None
+
+                    '''
+                    try:
+                        if input_frame == None:
+                            print("Frame not recieved")
+                            last_frame_status = False
+                            false_in_a_row_count += 1
+
+                            #try again
+                            
+
+                            if false_in_a_row_count > 15:
+                                status = False
+                                print("\n\nNEED TO QUIT\n\n")
+                                return total_passed_vehicle, status, frame_count , input_video
+
+                            continue
+                        
+                            
+                    except :
+                        print("NORMAL")
+                        #print("keyboard intrrupt")
+                        #return total_passed_vehicle, status, frame_count , input_video
+                    '''
+
+                    #image throws eroor if u try to compare it to being null
+                    
+
 
                     #resize img down
                     #input_frame = cv2.resize(input_frame,None,fx=0.5,fy=0.5)
@@ -155,7 +203,7 @@ def cumulative_object_counting_x_axis(input_video, detection_graph, category_ind
                     # Expand dimensions since the model expects images to have shape: [1, None, None, 3]
                     image_np_expanded = np.expand_dims(input_frame, axis=0)
 
-
+                    print("Detecting")
                     output_dict  = run_inference_for_single_image(image_np_expanded, sess)
 
 
@@ -210,8 +258,7 @@ def cumulative_object_counting_x_axis(input_video, detection_graph, category_ind
                     cv2.rectangle(input_frame, (location_of_text[0]+355, location_of_text[1]- 23), (location_of_text[0]-4, location_of_text[1]+4), (0, 0, 0), cv2.FILLED)
                     cv2.putText( input_frame,'Detected Pedestrians: ' + str(round(total_passed_vehicle)),location_of_text,font,0.8,(0, 0xFF, 0),2,cv2.FONT_HERSHEY_SIMPLEX,)
 
-                    cv2.rectangle(input_frame, (200+355, 200- 23), (200-4, 200+4), (0, 0, 0), cv2.FILLED)
-                    cv2.putText( input_frame,'Total frames: ' + str(frame_count),(200,200),font,0.8,(0, 0xFF, 0),2,cv2.FONT_HERSHEY_SIMPLEX,)
+                    
 
 
                     frame_count += 1
@@ -228,15 +275,18 @@ def cumulative_object_counting_x_axis(input_video, detection_graph, category_ind
                     if cv2.waitKey(1) & 0xFF == ord('q'):
                         cv2.destroyAllWindows()
                         break
-                except Exception as e:
-                    print("error")
-                    print(e)
+                except  KeyboardInterrupt:
+                    print("keyboard interrupt")
+                    #print(e)
+                    print(traceback.format_exc())
+                    return total_passed_vehicle,status, frame_count , input_video
+                
 
                 
                 
             
     print("total pedestrains passed" + str(total_passed_vehicle))
-    return total_passed_vehicle, frame_count , input_video
+    return total_passed_vehicle,status, frame_count , input_video
 
 
 
