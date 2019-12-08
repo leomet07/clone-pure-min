@@ -1,7 +1,7 @@
 from __future__ import print_function
 import numpy as np
 import os
-
+import sys
 import logging
 #hello
 
@@ -47,15 +47,34 @@ y = 22
 w = 468
 h = 300
 '''
+from datetime import datetime
+
 
 full_total = 0
+
+with open("global_totals_livecmd.txt","w") as file:
+    time = datetime.now()
+    file.write("0 " + str(time))
+
 print("starting")
+
+
 total,status, framecount , vidnameused = cumulative_object_counting_x_axis(input_video, detection_graph, category_index,is_color_recognition_enabled,x,y,w,h,label ,write=False, display=False, brighten = False)
 full_total += total
+with open("global_totals_livecmd.txt","a") as file:
+    time = datetime.now()
+    file.write("\n------\n")
+    file.write(str(total) + " " + str(time))
+    file.write("\n---\n")
 while status != True:
     print("Bad status recieved") 
     total,status, framecount , vidnameused = cumulative_object_counting_x_axis(input_video, detection_graph, category_index,is_color_recognition_enabled,x,y,w,h,label ,write=False, display=False, brighten = False)
     full_total += total
+    with open("global_totals_livecmd.txt","a") as file:
+        time = datetime.now()
+        file.write("\n------\n")
+        file.write(str(total) + " " + str(time))
+        file.write("\n-----\n")
 
 print("Full total" + str(full_total))
 

@@ -16,13 +16,6 @@ from utils import visualization_utils as vis_util
 from utils import backbone
 
 from object_detection.utils import ops as utils_ops
-logging.getLogger("tensorflow").setLevel(logging.CRITICAL)
-logging.getLogger("tensorflow_hub").setLevel(logging.CRITICAL)
-# Just disables the warning shown at the end, doesn't enable AVX/FMA(Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
-# This is needed since the notebook is stored in the object_detection folder.
-if StrictVersion(tf.__version__) < StrictVersion('1.12.0'):
-    raise ImportError('Please upgrade your TensorFlow installation to v1.12.*.')
 
 
 def run_inference_for_single_image(image,sess):
@@ -70,10 +63,10 @@ def run_inference_for_single_image(image,sess):
 
 
     return output_dict
-from alg import nps
 
+from datetime import datetime
 def cumulative_object_counting_x_axis(input_video, detection_graph, category_index, is_color_recognition_enabled,x,y,w,h,label_to_look_for,
-                                       write=True, display = False, location_of_text=(40, 100), pixel_v = 16, brighten = False):
+                                       write=True, display = False, location_of_text=(40, 100), pixel_v = 18, brighten = False):
 
     print("Starting")
     print(label_to_look_for)
@@ -150,29 +143,7 @@ def cumulative_object_counting_x_axis(input_video, detection_graph, category_ind
                     input_frame = frame
                     #input_frame = None
 
-                    '''
-                    try:
-                        if input_frame == None:
-                            print("Frame not recieved")
-                            last_frame_status = False
-                            false_in_a_row_count += 1
-
-                            #try again
-                            
-
-                            if false_in_a_row_count > 15:
-                                status = False
-                                print("\n\nNEED TO QUIT\n\n")
-                                return total_passed_vehicle, status, frame_count , input_video
-
-                            continue
-                        
-                            
-                    except :
-                        print("NORMAL")
-                        #print("keyboard intrrupt")
-                        #return total_passed_vehicle, status, frame_count , input_video
-                    '''
+                   
 
                     #image throws eroor if u try to compare it to being null
                     
@@ -260,7 +231,11 @@ def cumulative_object_counting_x_axis(input_video, detection_graph, category_ind
 
 
                     frame_count += 1
-
+                    if frame_count % 200 ==  0:
+                        #once 200 frames have passed, save
+                        time = datetime.now()
+                        with open("totals.txt","a") as file:
+                            file.write("\n-----\n" + str(total_passed_vehicle) + " " + str(time) +  "\n------\n")
                     if write:
                         output_movie.write(input_frame)
                         print(" writing frame...")
