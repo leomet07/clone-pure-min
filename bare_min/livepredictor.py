@@ -66,7 +66,7 @@ def run_inference_for_single_image(image,sess):
 
 from datetime import datetime
 def cumulative_object_counting_x_axis(input_video, detection_graph, category_index, is_color_recognition_enabled,x,y,w,h,label_to_look_for,
-                                       write=True, display = False, location_of_text=(40, 100), pixel_v = 18, brighten = False):
+                                       write=True, display = False, location_of_text=(40, 100), pixel_v = 22, brighten = False):
 
     print("Starting")
     print(label_to_look_for)
@@ -177,7 +177,7 @@ def cumulative_object_counting_x_axis(input_video, detection_graph, category_ind
 
 
                     output = []
-                    threshold = 0.6
+                    threshold = 0.5
                     for index, score in enumerate(output_dict['detection_scores']):
 
                         if score < threshold:
@@ -235,7 +235,7 @@ def cumulative_object_counting_x_axis(input_video, detection_graph, category_ind
                         #once 200 frames have passed, save
                         time = datetime.now()
                         with open("totals.txt","a") as file:
-                            file.write("\n-----\n" + str(total_passed_vehicle) + " " + str(time) +  "\n------\n")
+                            file.write("\n-----\n" + "Total so far (not acounting for restarts)" + str(total_passed_vehicle) + " " + str(time) +  "\n------\n")
                     if write:
                         output_movie.write(input_frame)
                         print(" writing frame...")
@@ -243,7 +243,7 @@ def cumulative_object_counting_x_axis(input_video, detection_graph, category_ind
                     if display:
                         cv2.imshow('object counting',input_frame)
 
-                    print("here")
+                    #print("here")
 
                     if cv2.waitKey(1) & 0xFF == ord('q'):
                         cv2.destroyAllWindows()
