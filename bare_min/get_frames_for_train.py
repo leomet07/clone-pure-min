@@ -40,7 +40,7 @@ while cap.isOpened():
     image_height, image_width, _ = input_frame.shape
     #print(current_frame)
     #print(input_frame.shape)
-    if current_frame_count % 25 == 0:
+    if current_frame_count % 32 == 0:
         #every 50 frames, save
         print("saving " + str(current_frame_count) + "/" + str(totalfps))
         saved_img += 1
