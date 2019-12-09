@@ -2482,3 +2482,43 @@ Total so far (not acounting for restarts)144 2019-12-09 01:23:42.964386
 -----
 Total so far (not acounting for restarts)144 2019-12-09 01:24:12.023471
 ------
+
+-----
+Total so far (not acounting for restarts)144 2019-12-09 01:24:40.468064
+------
+
+-----
+Total so far (not acounting for restarts)144 2019-12-09 01:25:09.730108
+------
+
+-----
+Total so far (not acounting for restarts)144 2019-12-09 01:25:40.363413
+------
+
+-----
+Total so far (not acounting for restarts)150 2019-12-09 01:26:11.021736
+------
+
+-----
+Total so far (not acounting for restarts)151 2019-12-09 01:26:39.617505
+------
+
+-----
+Total so far (not acounting for restarts)151 2019-12-09 01:27:08.704991
+------
+
+-----
+Total so far (not acounting for restarts)151 2019-12-09 01:27:37.411393
+------
+
+-----
+Total so far (not acounting for restarts)151 2019-12-09 01:28:05.863710
+------
+
+-----
+Total so far (not acounting for restarts)151 2019-12-09 01:28:33.631484
+------
+
+-----
+Total so far (not acounting for restarts)151 2019-12-09 01:29:01.864012
+------
