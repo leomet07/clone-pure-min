@@ -1,0 +1,2484 @@
+#the times are 3h behind moscows times
+-----
+Total so far (not acounting for restarts)0 2019-12-08 20:20:02.582098
+------
+
+-----
+Total so far (not acounting for restarts)0 2019-12-08 20:21:31.516480
+------
+
+-----
+Total so far (not acounting for restarts)2 2019-12-08 20:22:00.321907
+------
+
+-----
+Total so far (not acounting for restarts)2 2019-12-08 20:22:28.736779
+------
+
+-----
+Total so far (not acounting for restarts)2 2019-12-08 20:22:56.948975
+------
+
+-----
+Total so far (not acounting for restarts)2 2019-12-08 20:23:26.080551
+------
+
+-----
+Total so far (not acounting for restarts)2 2019-12-08 20:23:54.042422
+------
+
+-----
+Total so far (not acounting for restarts)2 2019-12-08 20:24:23.280292
+------
+
+-----
+Total so far (not acounting for restarts)2 2019-12-08 20:24:51.172174
+------
+
+-----
+Total so far (not acounting for restarts)2 2019-12-08 20:25:20.295747
+------
+
+-----
+Total so far (not acounting for restarts)2 2019-12-08 20:25:49.132033
+------
+
+-----
+Total so far (not acounting for restarts)2 2019-12-08 20:26:18.371349
+------
+
+-----
+Total so far (not acounting for restarts)2 2019-12-08 20:26:47.474179
+------
+
+-----
+Total so far (not acounting for restarts)2 2019-12-08 20:27:16.797459
+------
+
+-----
+Total so far (not acounting for restarts)7 2019-12-08 20:27:44.808949
+------
+
+-----
+Total so far (not acounting for restarts)7 2019-12-08 20:28:13.628478
+------
+
+-----
+Total so far (not acounting for restarts)7 2019-12-08 20:28:42.909725
+------
+
+-----
+Total so far (not acounting for restarts)10 2019-12-08 20:29:12.083816
+------
+
+-----
+Total so far (not acounting for restarts)10 2019-12-08 20:29:40.432260
+------
+
+-----
+Total so far (not acounting for restarts)10 2019-12-08 20:30:09.037141
+------
+
+-----
+Total so far (not acounting for restarts)10 2019-12-08 20:30:37.713730
+------
+
+-----
+Total so far (not acounting for restarts)10 2019-12-08 20:31:06.860272
+------
+
+-----
+Total so far (not acounting for restarts)10 2019-12-08 20:31:36.024516
+------
+
+-----
+Total so far (not acounting for restarts)18 2019-12-08 20:32:05.583299
+------
+
+-----
+Total so far (not acounting for restarts)18 2019-12-08 20:32:34.056017
+------
+
+-----
+Total so far (not acounting for restarts)37 2019-12-08 20:33:03.451007
+------
+
+-----
+Total so far (not acounting for restarts)37 2019-12-08 20:33:32.801336
+------
+
+-----
+Total so far (not acounting for restarts)50 2019-12-08 20:34:01.772163
+------
+
+-----
+Total so far (not acounting for restarts)51 2019-12-08 20:34:30.853731
+------
+
+-----
+Total so far (not acounting for restarts)51 2019-12-08 20:34:59.571544
+------
+
+-----
+Total so far (not acounting for restarts)51 2019-12-08 20:35:29.398161
+------
+
+-----
+Total so far (not acounting for restarts)51 2019-12-08 20:35:58.996319
+------
+
+-----
+Total so far (not acounting for restarts)61 2019-12-08 20:36:29.035538
+------
+
+-----
+Total so far (not acounting for restarts)61 2019-12-08 20:36:57.986923
+------
+
+-----
+Total so far (not acounting for restarts)61 2019-12-08 20:37:26.607396
+------
+
+-----
+Total so far (not acounting for restarts)61 2019-12-08 20:37:54.263943
+------
+
+-----
+Total so far (not acounting for restarts)61 2019-12-08 20:38:22.195933
+------
+
+-----
+Total so far (not acounting for restarts)61 2019-12-08 20:38:51.428213
+------
+
+-----
+Total so far (not acounting for restarts)61 2019-12-08 20:39:20.362367
+------
+
+-----
+Total so far (not acounting for restarts)61 2019-12-08 20:39:48.913354
+------
+
+-----
+Total so far (not acounting for restarts)61 2019-12-08 20:40:17.841129
+------
+
+-----
+Total so far (not acounting for restarts)61 2019-12-08 20:40:47.077593
+------
+
+-----
+Total so far (not acounting for restarts)61 2019-12-08 20:41:17.981149
+------
+
+-----
+Total so far (not acounting for restarts)61 2019-12-08 20:41:48.113226
+------
+
+-----
+Total so far (not acounting for restarts)61 2019-12-08 20:42:17.278435
+------
+
+-----
+Total so far (not acounting for restarts)61 2019-12-08 20:42:45.457203
+------
+
+-----
+Total so far (not acounting for restarts)61 2019-12-08 20:43:13.906311
+------
+
+-----
+Total so far (not acounting for restarts)61 2019-12-08 20:43:42.159789
+------
+
+-----
+Total so far (not acounting for restarts)62 2019-12-08 20:44:10.832470
+------
+
+-----
+Total so far (not acounting for restarts)62 2019-12-08 20:44:39.934915
+------
+
+-----
+Total so far (not acounting for restarts)62 2019-12-08 20:45:08.810605
+------
+
+-----
+Total so far (not acounting for restarts)62 2019-12-08 20:45:37.166986
+------
+
+-----
+Total so far (not acounting for restarts)66 2019-12-08 20:46:06.672830
+------
+
+-----
+Total so far (not acounting for restarts)66 2019-12-08 20:46:35.579186
+------
+
+-----
+Total so far (not acounting for restarts)66 2019-12-08 20:47:05.045339
+------
+
+-----
+Total so far (not acounting for restarts)66 2019-12-08 20:47:33.388843
+------
+
+-----
+Total so far (not acounting for restarts)66 2019-12-08 20:48:01.407432
+------
+
+-----
+Total so far (not acounting for restarts)66 2019-12-08 20:48:29.663032
+------
+
+-----
+Total so far (not acounting for restarts)66 2019-12-08 20:48:58.354519
+------
+
+-----
+Total so far (not acounting for restarts)66 2019-12-08 20:49:27.455786
+------
+
+-----
+Total so far (not acounting for restarts)66 2019-12-08 20:49:55.814431
+------
+
+-----
+Total so far (not acounting for restarts)66 2019-12-08 20:50:25.610099
+------
+
+-----
+Total so far (not acounting for restarts)67 2019-12-08 20:50:53.947097
+------
+
+-----
+Total so far (not acounting for restarts)67 2019-12-08 20:51:23.379109
+------
+
+-----
+Total so far (not acounting for restarts)70 2019-12-08 20:51:51.602526
+------
+
+-----
+Total so far (not acounting for restarts)73 2019-12-08 20:52:19.820701
+------
+
+-----
+Total so far (not acounting for restarts)73 2019-12-08 20:52:47.905191
+------
+
+-----
+Total so far (not acounting for restarts)75 2019-12-08 20:53:16.638801
+------
+
+-----
+Total so far (not acounting for restarts)75 2019-12-08 20:53:44.690335
+------
+
+-----
+Total so far (not acounting for restarts)75 2019-12-08 20:54:13.068125
+------
+
+-----
+Total so far (not acounting for restarts)75 2019-12-08 20:54:40.653017
+------
+
+-----
+Total so far (not acounting for restarts)75 2019-12-08 20:55:09.212943
+------
+
+-----
+Total so far (not acounting for restarts)75 2019-12-08 20:55:37.968886
+------
+
+-----
+Total so far (not acounting for restarts)75 2019-12-08 20:56:07.400704
+------
+
+-----
+Total so far (not acounting for restarts)75 2019-12-08 20:56:37.529923
+------
+
+-----
+Total so far (not acounting for restarts)75 2019-12-08 20:57:07.099923
+------
+
+-----
+Total so far (not acounting for restarts)75 2019-12-08 20:57:35.832005
+------
+
+-----
+Total so far (not acounting for restarts)75 2019-12-08 20:58:05.283362
+------
+
+-----
+Total so far (not acounting for restarts)75 2019-12-08 20:58:33.937519
+------
+
+-----
+Total so far (not acounting for restarts)75 2019-12-08 20:59:02.322653
+------
+
+-----
+Total so far (not acounting for restarts)75 2019-12-08 20:59:31.016398
+------
+
+-----
+Total so far (not acounting for restarts)75 2019-12-08 20:59:59.495598
+------
+
+-----
+Total so far (not acounting for restarts)75 2019-12-08 21:00:30.723949
+------
+
+-----
+Total so far (not acounting for restarts)75 2019-12-08 21:01:00.363797
+------
+
+-----
+Total so far (not acounting for restarts)77 2019-12-08 21:01:32.112711
+------
+
+-----
+Total so far (not acounting for restarts)77 2019-12-08 21:02:02.802220
+------
+
+-----
+Total so far (not acounting for restarts)77 2019-12-08 21:02:32.509068
+------
+
+-----
+Total so far (not acounting for restarts)77 2019-12-08 21:03:04.584520
+------
+
+-----
+Total so far (not acounting for restarts)77 2019-12-08 21:03:34.886024
+------
+
+-----
+Total so far (not acounting for restarts)77 2019-12-08 21:04:04.202924
+------
+
+-----
+Total so far (not acounting for restarts)78 2019-12-08 21:04:32.686678
+------
+
+-----
+Total so far (not acounting for restarts)78 2019-12-08 21:05:01.663587
+------
+
+-----
+Total so far (not acounting for restarts)78 2019-12-08 21:05:34.786446
+------
+
+-----
+Total so far (not acounting for restarts)78 2019-12-08 21:06:05.099522
+------
+
+-----
+Total so far (not acounting for restarts)78 2019-12-08 21:06:35.554483
+------
+
+-----
+Total so far (not acounting for restarts)78 2019-12-08 21:07:06.119819
+------
+
+-----
+Total so far (not acounting for restarts)78 2019-12-08 21:07:35.613954
+------
+
+-----
+Total so far (not acounting for restarts)78 2019-12-08 21:08:05.191220
+------
+
+-----
+Total so far (not acounting for restarts)78 2019-12-08 21:08:35.285883
+------
+
+-----
+Total so far (not acounting for restarts)79 2019-12-08 21:09:06.125597
+------
+
+-----
+Total so far (not acounting for restarts)79 2019-12-08 21:09:36.525077
+------
+
+-----
+Total so far (not acounting for restarts)79 2019-12-08 21:10:07.510667
+------
+
+-----
+Total so far (not acounting for restarts)79 2019-12-08 21:10:40.505330
+------
+
+-----
+Total so far (not acounting for restarts)79 2019-12-08 21:11:13.456370
+------
+
+-----
+Total so far (not acounting for restarts)79 2019-12-08 21:11:47.079719
+------
+
+-----
+Total so far (not acounting for restarts)79 2019-12-08 21:12:19.169649
+------
+
+-----
+Total so far (not acounting for restarts)79 2019-12-08 21:12:49.339912
+------
+
+-----
+Total so far (not acounting for restarts)79 2019-12-08 21:13:19.391602
+------
+
+-----
+Total so far (not acounting for restarts)79 2019-12-08 21:13:48.531215
+------
+
+-----
+Total so far (not acounting for restarts)79 2019-12-08 21:14:18.087295
+------
+
+-----
+Total so far (not acounting for restarts)81 2019-12-08 21:14:46.692972
+------
+
+-----
+Total so far (not acounting for restarts)83 2019-12-08 21:15:17.991530
+------
+
+-----
+Total so far (not acounting for restarts)83 2019-12-08 21:15:49.106859
+------
+
+-----
+Total so far (not acounting for restarts)83 2019-12-08 21:16:21.221290
+------
+
+-----
+Total so far (not acounting for restarts)83 2019-12-08 21:16:51.393085
+------
+
+-----
+Total so far (not acounting for restarts)83 2019-12-08 21:17:22.622106
+------
+
+-----
+Total so far (not acounting for restarts)83 2019-12-08 21:17:51.937203
+------
+
+-----
+Total so far (not acounting for restarts)83 2019-12-08 21:18:21.538701
+------
+
+-----
+Total so far (not acounting for restarts)84 2019-12-08 21:18:50.706097
+------
+
+-----
+Total so far (not acounting for restarts)86 2019-12-08 21:19:20.069018
+------
+
+-----
+Total so far (not acounting for restarts)86 2019-12-08 21:19:49.044572
+------
+
+-----
+Total so far (not acounting for restarts)86 2019-12-08 21:20:18.968019
+------
+
+-----
+Total so far (not acounting for restarts)86 2019-12-08 21:20:48.874108
+------
+
+-----
+Total so far (not acounting for restarts)86 2019-12-08 21:21:20.600583
+------
+
+-----
+Total so far (not acounting for restarts)86 2019-12-08 21:21:50.449497
+------
+
+-----
+Total so far (not acounting for restarts)86 2019-12-08 21:22:20.525408
+------
+
+-----
+Total so far (not acounting for restarts)86 2019-12-08 21:22:49.185423
+------
+
+-----
+Total so far (not acounting for restarts)86 2019-12-08 21:23:19.014893
+------
+
+-----
+Total so far (not acounting for restarts)86 2019-12-08 21:23:50.650939
+------
+
+-----
+Total so far (not acounting for restarts)86 2019-12-08 21:24:20.416263
+------
+
+-----
+Total so far (not acounting for restarts)86 2019-12-08 21:24:49.446532
+------
+
+-----
+Total so far (not acounting for restarts)86 2019-12-08 21:25:20.088056
+------
+
+-----
+Total so far (not acounting for restarts)86 2019-12-08 21:25:51.052240
+------
+
+-----
+Total so far (not acounting for restarts)86 2019-12-08 21:26:21.450433
+------
+
+-----
+Total so far (not acounting for restarts)86 2019-12-08 21:26:51.710373
+------
+
+-----
+Total so far (not acounting for restarts)86 2019-12-08 21:27:21.952089
+------
+
+-----
+Total so far (not acounting for restarts)86 2019-12-08 21:27:50.855029
+------
+
+-----
+Total so far (not acounting for restarts)86 2019-12-08 21:28:19.542967
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:28:48.100164
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:29:18.559948
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:29:48.559128
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:30:19.751792
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:30:50.853621
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:31:22.722244
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:31:52.746523
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:32:22.860133
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:32:51.829495
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:33:22.794772
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:33:52.684267
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:34:22.093829
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:34:50.880257
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:35:21.569613
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:35:51.812017
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:36:22.856814
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:36:52.957441
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:37:23.859344
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:37:52.900097
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:38:23.018005
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:38:51.496377
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:39:20.932954
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:39:49.555217
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:40:19.030605
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:40:48.200347
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:41:19.068058
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:41:49.569025
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:42:19.504353
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:42:48.875913
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:43:18.701013
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:43:47.081457
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:44:16.171287
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:44:44.793054
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:45:13.888711
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:45:42.496064
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:46:12.376057
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:46:43.384096
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:47:16.004792
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:47:46.195443
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:48:16.562751
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:48:45.526854
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:49:14.403201
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:49:43.070571
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:50:12.520350
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:50:41.673969
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:51:13.023434
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:51:43.021971
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:52:12.722416
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:52:41.337018
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:53:10.569842
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:53:39.530908
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:54:09.035544
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:54:37.699869
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:55:07.167805
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:55:36.771869
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:56:07.119384
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:56:38.543611
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:57:08.922285
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:57:38.683174
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:58:08.252657
+------
+
+-----
+Total so far (not acounting for restarts)87 2019-12-08 21:58:37.369567
+------
+
+-----
+Total so far (not acounting for restarts)88 2019-12-08 21:59:06.727086
+------
+
+-----
+Total so far (not acounting for restarts)88 2019-12-08 21:59:36.080888
+------
+
+-----
+Total so far (not acounting for restarts)88 2019-12-08 22:00:05.493019
+------
+
+-----
+Total so far (not acounting for restarts)88 2019-12-08 22:00:36.233916
+------
+
+-----
+Total so far (not acounting for restarts)88 2019-12-08 22:01:07.537809
+------
+
+-----
+Total so far (not acounting for restarts)88 2019-12-08 22:01:38.667382
+------
+
+-----
+Total so far (not acounting for restarts)88 2019-12-08 22:02:09.810529
+------
+
+-----
+Total so far (not acounting for restarts)88 2019-12-08 22:02:40.292309
+------
+
+-----
+Total so far (not acounting for restarts)88 2019-12-08 22:03:09.615327
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:03:39.498089
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:04:10.667387
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:04:39.748075
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:05:09.757133
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:05:38.291145
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:06:07.927881
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:06:37.790313
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:07:07.827611
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:07:36.658333
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:08:05.260306
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:08:33.562218
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:09:01.433191
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:09:30.609138
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:09:58.347969
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:10:28.111954
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:10:57.581494
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:11:29.609743
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:11:58.728169
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:12:29.127440
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:12:58.097929
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:13:27.559637
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:13:56.389342
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:14:24.896821
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:14:52.868839
+------
+
+-----
+Total so far (not acounting for restarts)102 2019-12-08 22:15:22.747403
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:15:51.982005
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:16:21.373677
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:16:50.355526
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:17:19.753882
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:17:48.495739
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:18:17.892693
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:18:46.798415
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:19:15.766165
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:19:43.744775
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:20:13.548910
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:20:42.691652
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:21:13.460031
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:21:42.686925
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:22:12.710400
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:22:40.867395
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:23:09.088348
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:23:37.143296
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:24:06.185187
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:24:35.309361
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:25:04.861309
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:25:35.477626
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:26:05.231133
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:26:34.191659
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:27:03.115802
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:27:31.074084
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:27:59.172713
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:28:28.564825
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:28:57.389168
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:29:26.024467
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:29:53.313052
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:30:22.478348
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:30:50.567457
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:31:21.304354
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:31:50.271040
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:32:18.708223
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:32:46.493204
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:33:15.181270
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:33:42.792622
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:34:11.956203
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:34:40.122670
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:35:08.613287
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:35:37.858241
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:36:06.496964
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:36:34.936227
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:37:03.469972
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:37:31.984574
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:37:59.734072
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:38:28.040111
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:38:56.037502
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:39:24.363377
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:39:52.415953
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:40:21.538294
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:40:49.990960
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:41:19.674067
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:41:49.009261
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:42:18.322858
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:42:46.195689
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:43:15.877949
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:43:43.656446
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:44:12.575842
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:44:40.934600
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:45:10.021000
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:45:39.280581
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:46:09.317061
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:46:38.420597
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:47:06.992303
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:47:35.524886
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:48:03.876134
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:48:32.911075
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:49:00.816031
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:49:29.655110
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:49:58.463089
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:50:28.783908
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:50:56.856585
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:51:26.787449
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:51:55.759316
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:52:24.312336
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:52:52.273717
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:53:20.865139
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:53:49.881987
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:54:18.451439
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:54:46.119618
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:55:15.645168
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:55:44.512291
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:56:13.700329
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:56:42.504777
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:57:12.154567
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:57:40.308053
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:58:08.460707
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:58:36.691105
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:59:05.073133
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 22:59:33.186431
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 23:00:01.402705
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 23:00:30.762995
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 23:00:59.141358
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 23:01:29.997127
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 23:01:58.842647
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 23:02:28.200022
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 23:02:57.206873
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 23:03:26.811515
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 23:03:55.508691
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 23:04:24.449930
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 23:04:52.874424
+------
+
+-----
+Total so far (not acounting for restarts)124 2019-12-08 23:05:23.688075
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:05:54.344075
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:06:26.527421
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:06:56.101620
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:07:25.132817
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:07:53.629229
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:08:23.491584
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:08:52.088535
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:09:21.736139
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:09:49.987338
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:10:20.733490
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:10:51.585464
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:11:25.287565
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:11:56.720507
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:12:29.463764
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:12:59.060638
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:13:30.246542
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:13:59.210308
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:14:29.115779
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:14:57.677034
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:15:28.642831
+------
+
+-----
+Total so far (not acounting for restarts)127 2019-12-08 23:15:59.413110
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:16:32.040911
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:17:03.024356
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:17:34.288978
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:18:03.265065
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:18:32.268274
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:19:00.672173
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:19:30.482726
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:19:58.592738
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:20:28.494911
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:20:58.667166
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:21:29.662707
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:21:59.501695
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:22:28.779375
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:22:57.033799
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:23:26.843146
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:23:55.085802
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:24:24.465792
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:24:52.717328
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:25:22.487066
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:25:51.694700
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:26:21.711342
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:26:50.829018
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:27:20.707970
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:27:48.543650
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:28:16.992204
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:28:45.422001
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:29:14.189729
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:29:43.619863
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:30:14.416532
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:30:44.031999
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:31:14.091228
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:31:43.161246
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:32:12.678583
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:32:41.239925
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:33:10.191697
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:33:39.052537
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:34:09.322551
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:34:38.685702
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:35:08.489056
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:35:37.827876
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:36:07.720845
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:36:37.475940
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:37:07.235675
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:37:36.610348
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:38:04.575792
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:38:32.815123
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:39:01.599362
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:39:31.091849
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:39:59.772292
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:40:30.125397
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:40:59.841444
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:41:30.959748
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:42:00.596833
+------
+
+-----
+Total so far (not acounting for restarts)128 2019-12-08 23:42:29.886115
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:42:57.528966
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:43:26.762092
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:43:54.834973
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:44:23.153592
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:44:51.339845
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:45:21.525310
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:45:51.455399
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:46:22.448302
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:46:51.504691
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:47:20.431885
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:47:48.611784
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:48:17.726356
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:48:46.352095
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:49:15.463848
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:49:43.967066
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:50:13.001869
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:50:43.324612
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:51:14.675296
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:51:44.031391
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:52:13.351621
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:52:41.558837
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:53:11.132645
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:53:39.507484
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:54:08.892021
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:54:36.930520
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:55:05.519277
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:55:34.295162
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:56:03.319516
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:56:33.685127
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:57:03.529086
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:57:33.035103
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:58:01.319566
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:58:29.782703
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:58:57.634536
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:59:27.325008
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-08 23:59:55.904638
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:00:26.625948
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:00:55.560717
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:01:26.595997
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:01:56.090485
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:02:26.572706
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:02:54.940685
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:03:24.867754
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:03:53.708008
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:04:23.527062
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:04:52.149509
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:05:23.368891
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:05:52.591161
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:06:22.508123
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:06:51.487026
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:07:20.965489
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:07:49.300113
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:08:18.711738
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:08:46.215545
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:09:15.224934
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:09:42.940917
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:10:12.169208
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:10:41.256531
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:11:11.880137
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:11:43.110969
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:12:13.042330
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:12:40.952950
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:13:08.941425
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:13:36.768003
+------
+
+-----
+Total so far (not acounting for restarts)129 2019-12-09 00:14:05.331006
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:14:33.743866
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:15:01.913153
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:15:31.682001
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:16:00.415475
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:16:29.842156
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:16:58.235373
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:17:26.596955
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:17:54.649134
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:18:23.428738
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:18:51.725349
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:19:20.648067
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:19:48.798553
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:20:17.665890
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:20:46.176752
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:21:15.885903
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:21:44.392629
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:22:12.900755
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:22:40.157745
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:23:08.132825
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:23:35.682658
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:24:03.450880
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:24:32.343111
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:24:59.658748
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:25:29.113050
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:25:57.156852
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:26:26.544161
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:26:54.692367
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:27:23.683416
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:27:51.625856
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:28:20.284147
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:28:47.625739
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:29:15.472325
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:29:42.917531
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:30:10.975004
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:30:39.023275
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:31:08.599852
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:31:38.111804
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:32:07.302078
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:32:35.918019
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:33:04.158649
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:33:32.647810
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:34:00.125840
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:34:28.436845
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:34:56.268700
+------
+
+-----
+Total so far (not acounting for restarts)132 2019-12-09 00:35:27.861740
+------
+
+-----
+Total so far (not acounting for restarts)138 2019-12-09 00:35:56.851176
+------
+
+-----
+Total so far (not acounting for restarts)138 2019-12-09 00:36:27.639752
+------
+
+-----
+Total so far (not acounting for restarts)138 2019-12-09 00:36:56.475993
+------
+
+-----
+Total so far (not acounting for restarts)138 2019-12-09 00:37:26.924292
+------
+
+-----
+Total so far (not acounting for restarts)138 2019-12-09 00:37:55.829182
+------
+
+-----
+Total so far (not acounting for restarts)138 2019-12-09 00:38:24.898676
+------
+
+-----
+Total so far (not acounting for restarts)138 2019-12-09 00:38:52.397474
+------
+
+-----
+Total so far (not acounting for restarts)138 2019-12-09 00:39:20.918374
+------
+
+-----
+Total so far (not acounting for restarts)138 2019-12-09 00:39:48.604373
+------
+
+-----
+Total so far (not acounting for restarts)138 2019-12-09 00:40:17.863026
+------
+
+-----
+Total so far (not acounting for restarts)138 2019-12-09 00:40:46.689662
+------
+
+-----
+Total so far (not acounting for restarts)138 2019-12-09 00:41:16.854829
+------
+
+-----
+Total so far (not acounting for restarts)138 2019-12-09 00:41:45.861813
+------
+
+-----
+Total so far (not acounting for restarts)138 2019-12-09 00:42:15.811147
+------
+
+-----
+Total so far (not acounting for restarts)138 2019-12-09 00:42:44.165257
+------
+
+-----
+Total so far (not acounting for restarts)138 2019-12-09 00:43:13.655262
+------
+
+-----
+Total so far (not acounting for restarts)138 2019-12-09 00:43:41.978809
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:44:10.850609
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:44:39.166743
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:45:08.829296
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:45:38.647736
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:46:08.940159
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:46:38.729321
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:47:07.901302
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:47:36.980548
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:48:05.860042
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:48:34.506128
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:49:03.832271
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:49:32.788418
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:50:01.076986
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:50:30.484447
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:50:58.789605
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:51:29.338223
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:51:57.754513
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:52:27.399483
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:52:55.482044
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:53:25.174361
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:53:53.677842
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:54:22.882643
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:54:51.594170
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:55:21.535035
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:55:50.378315
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:56:20.240038
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:56:49.454656
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:57:18.441691
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:57:46.953433
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:58:16.260319
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:58:44.721563
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:59:13.688046
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 00:59:41.744943
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:00:11.179547
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:00:40.014405
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:01:09.718213
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:01:39.716574
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:02:09.059425
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:02:38.775427
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:03:09.224387
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:03:40.318562
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:04:11.642281
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:04:42.059511
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:05:14.902971
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:05:47.685327
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:06:20.551709
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:06:51.562462
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:07:21.827545
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:07:50.243069
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:08:19.304776
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:08:47.500373
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:09:17.037827
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:09:45.442409
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:10:16.521235
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:10:47.500938
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:11:19.992046
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:11:50.660144
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:12:22.263680
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:12:53.215878
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:13:23.367885
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:13:52.559697
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:14:22.133948
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:14:50.411397
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:15:21.776479
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:15:53.192066
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:16:24.287524
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:16:54.304650
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:17:25.042543
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:17:52.828018
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:18:21.073754
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:18:49.311787
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:19:18.810633
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:19:47.085121
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:20:17.224135
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:20:46.965119
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:21:18.483792
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:21:48.160679
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:22:17.886149
+------
+
+-----
+Total so far (not acounting for restarts)142 2019-12-09 01:22:46.042223
+------
+
+-----
+Total so far (not acounting for restarts)143 2019-12-09 01:23:14.782097
+------
+
+-----
+Total so far (not acounting for restarts)144 2019-12-09 01:23:42.964386
+------
+
+-----
+Total so far (not acounting for restarts)144 2019-12-09 01:24:12.023471
+------
